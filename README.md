@@ -1,1 +1,1 @@
-This is and End to End Machined Learning Project that seeks to Predicat Students scores based on certain factors
+This is and End to End Machined Learning Project that seeks to Predict Students scores based on certain factors
